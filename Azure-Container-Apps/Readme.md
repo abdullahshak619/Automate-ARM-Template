@@ -40,7 +40,7 @@ This solution eliminates the tedious process of updating multiple files when add
 ### Deploy Another App
 
 ```bash
-./deploy.sh backend-salessales-sol-web-2
+./deploy.sh sales_ui sales-sol-web-2
 ```
 
 ### Deploy All Apps
